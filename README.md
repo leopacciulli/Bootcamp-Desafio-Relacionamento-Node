@@ -8,6 +8,15 @@
 
 <p align="center">“Change yourself and everything else will change naturally”!</blockquote>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leopacciulli/Bootcamp-Desafio-Relacionamento-Node?color=yellow">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leopacciulli/Bootcamp-Desafio-Relacionamento-Node?color=yellow">
+
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/leopacciulli/Bootcamp-Desafio-Relacionamento-Node?color=yellow">
+
+  <img alt="NodeJS version" src="https://img.shields.io/badge/Node.JS-v12.16.1-689f63?style=flat&logoColor=689f63&logo=node.js">
+</p>
 
 <br>
 
